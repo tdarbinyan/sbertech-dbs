@@ -3,6 +3,6 @@
 
 ## Д/З №0
 
-- ScyllaDB - 
-- ArenadataDB - 
-- DragonFlyDB - 
+- [ScyllaDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework0/ScyllaDB.md) 
+- [ArenadataDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework0/ArenadataDB.md) 
+- [DragonFlyDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework0/DragonFly.md)
