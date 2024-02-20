@@ -7,7 +7,9 @@
 **Итог**: ScyllaDB характеризуется комбинацией AP, но предоставляет гибкие настройки, позволяющие выбирать между доступностью и согласованностью в зависимости от конкретных требований и условий эксплуатации.
 
 **Источники**:
+
 Документация ScyllaDB - https://opensource.docs.scylladb.com/stable/architecture/architecture-fault-tolerance.html
+
 Презентация архитектуры ScyllaDB - https://www.youtube.com/watch?v=V6gygWP8vIc&ab_channel=ScyllaDB
 
 
