@@ -11,8 +11,7 @@
 
 ## Импорт данных
 
-Для ознакомления с MongoDB я выбрал простенький датасет [Titanic](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/dataset/titanic.csv)
-Далее скачиваю ее и добавляю в коллекцию `titanic` в базе `mydb`. Аргумент `--headerline` подсказывает Монге, чтобы первая строчка датасета - названия таблиц.
+Для ознакомления с MongoDB я выбрал простенький датасет [Titanic](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/dataset/titanic.csv). Далее скачиваю ее и добавляю в коллекцию `titanic` в базе `mydb`. Аргумент `--headerline` подсказывает Монге, чтобы первая строчка датасета - названия таблиц.
 
 ![alt text](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/images/import1.jpg?raw=true)
 
@@ -59,4 +58,4 @@ var end = new Date();
 Повторно засылаем код с измерением времени ответа и получаем $89.4 = (90 + 109 + 80 + 84 + 84) / 5$
 ![alt text](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/images/index.png?raw=true)
 
-Разница 3.2%, ввиду малого объема и простоты данных думаю, что это в пределах погрешности и индексация не показала себя во всей красе 
+Разница 3.2%, ввиду малого объема и простоты данных думаю, что это в пределах погрешности и индексация не показала себя во всей красе.
