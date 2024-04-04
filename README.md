@@ -10,3 +10,7 @@
 ## Д/З №1
 
 - [MongoDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/MongoDB.md)
+
+## Д/З №1
+
+- [Redis](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework2/Redis.md)
