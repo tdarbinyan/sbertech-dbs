@@ -11,6 +11,6 @@
 
 - [MongoDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework1/MongoDB.md)
 
-## Д/З №1
+## Д/З №2
 
 - [Redis](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework2/Redis.md)
