@@ -1,10 +1,11 @@
 import json
 import redis
 import time
+from redis.cluster import RedisCluster 
 
-r = redis.Redis(host='localhost', port=6379, db=0)
+r = RedisCluster(host='localhost', port=7000)
 
-with open('large-file.json') as f:
+with open('../dataset/large-file.json') as f:
     data = json.load(f)
 
 start_time = time.time()
