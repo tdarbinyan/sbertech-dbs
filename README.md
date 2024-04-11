@@ -14,3 +14,7 @@
 ## Д/З №2
 
 - [Redis](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework2/Redis.md)
+
+## Д/З №3
+
+- [CouchDB](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework3/CouchDB.md)
