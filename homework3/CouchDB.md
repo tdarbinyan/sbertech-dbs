@@ -48,7 +48,7 @@
 
 ## Offline
 
-Выключив `CouchDB` и перезагрузив джаваскрипт все еще вижу свою фамилию на [страничке]([json](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework3/files/PouchDB.html), задание на этом благополучно выполнено
+Выключив `CouchDB` и перезагрузив джаваскрипт все еще вижу свою фамилию на [страничке](https://github.com/tdarbinyan/sbertech-dbs/blob/main/homework3/files/PouchDB.html), задание на этом благополучно выполнено
 
 
 
